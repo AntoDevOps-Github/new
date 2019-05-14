@@ -1,3 +1,7 @@
 git add
 
+<<<<<<< HEAD
 git pull
+=======
+git push
+>>>>>>> 3777f899c5981cce99c73b89a906fb8701caf78f
